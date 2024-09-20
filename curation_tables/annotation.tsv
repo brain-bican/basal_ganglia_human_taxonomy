@@ -321,23 +321,23 @@ AIT117_18	BN LAMP5 LHX6 GABA		AIT117_48	CN MGE LAMP5 GABA	Group
 AIT117_19	GP MEIS2 SOX6 GABA		AIT117_52	BN MEIS2 GABA	Group																												
 AIT117_20	GP SOX6 KCNA1 GABA		AIT117_42	CN LHX6 LHX8 GABA	Group																												
 AIT117_21	STR SST ADARB2 GABA		AIT117_51	STR SST GABA	Group																												
-AIT117_22	STRd D2 Matrix		AIT117_53	STR D2 MSN GABA	Group																												
-AIT117_23	STRv D2 Shell		AIT117_53	STR D2 MSN GABA	Group																												
-AIT117_24	STRv D1 Shell		AIT117_54	STR D1 MSN GABA	Group																												
-AIT117_25	STRd D1 Matrix		AIT117_54	STR D1 MSN GABA	Group																												
-AIT117_26	STRd D1 Striosome		AIT117_54	STR D1 MSN GABA	Group																												
-AIT117_27	STRd D2 Striosome		AIT117_53	STR D2 MSN GABA	Group																												
-AIT117_28	STRd D1D2 Hybrid		AIT117_55	STR Hybrid MSN GABA	Group																												
-AIT117_29	STRv D1 NUDAP		AIT117_55	STR Hybrid MSN GABA	Group																												
+AIT117_22	STRd D2 Matrix		AIT117_53	STR D2 MSN GABA	Group	CL:4030047	matrix D2 medium spiny neuron																										
+AIT117_23	STRv D2 Shell		AIT117_53	STR D2 MSN GABA	Group	CL:4030052	nucleus accumbens shell and olfactory tubercle D2 medium spiny neuron																										
+AIT117_24	STRv D1 Shell		AIT117_54	STR D1 MSN GABA	Group	CL:4030051	nucleus accumbens shell and olfactory tubercle D1 medium spiny neuron																										
+AIT117_25	STRd D1 Matrix		AIT117_54	STR D1 MSN GABA	Group	CL:4030043	matrix D1 medium spiny neuron																										
+AIT117_26	STRd D1 Striosome		AIT117_54	STR D1 MSN GABA	Group	CL:4030048	striosomal D1 medium spiny neuron																										
+AIT117_27	STRd D2 Striosome		AIT117_53	STR D2 MSN GABA	Group	CL:4030049	striosomal D2 medium spiny neuron																										
+AIT117_28	STRd D1D2 Hybrid		AIT117_55	STR Hybrid MSN GABA	Group	CL:4030050	D1/D2-hybrid medium spiny neuron																										
+AIT117_29	STRv D1 NUDAP		AIT117_55	STR Hybrid MSN GABA	Group	CL:4030054	RXFP1-positive interface island D1-medium spiny neuron																										
 AIT117_30	STRd D2 StrioMat Hybrid		AIT117_53	STR D2 MSN GABA	Group																												
-AIT117_31	OT D1-ICj		AIT117_56	STR Granular GABA	Group																												
+AIT117_31	OT D1-ICj		AIT117_56	STR Granular GABA	Group	CL:4030053	Island of Calleja granule cell																										
 AIT117_32	BN Astrocyte		AIT117_57	Astrocyte	Group																												
 AIT117_33	Oligo RBFOX1		AIT117_58	Oligodendrocyte	Group																												
 AIT117_34	Oligo OPALIN		AIT117_58	Oligodendrocyte	Group																												
-AIT117_35	T cells		AIT117_66	Lymphocyte	Group																												
-AIT117_36	NK cells		AIT117_66	Lymphocyte	Group																												
-AIT117_37	BAM		AIT117_67	Macrophage	Group																												
-AIT117_38	STR Astrocyte		AIT117_57	Astrocyte	Group																												
+AIT117_35	T cells		AIT117_66	Lymphocyte	Group	CL:0000084	T cell																										
+AIT117_36	NK cells		AIT117_66	Lymphocyte	Group	CL:0000623	natural killer cell																										
+AIT117_37	BAM		AIT117_67	Macrophage	Group	CL:4042003	border associated macrophage																										
+AIT117_38	STR Astrocyte		AIT117_57	Astrocyte	Group	CL:0000127	astrocyte																										
 AIT117_39	SN STH GABA		AIT117_70	CN MGE GABA	Subclass																												
 AIT117_40	BG Glut		AIT117_71	F M Glut	Subclass																												
 AIT117_41	STR Cholinergic GABA		AIT117_70	CN MGE GABA	Subclass																												
@@ -352,34 +352,34 @@ AIT117_49	CN CGE VIP GABA		AIT117_74	CN CGE GABA	Subclass
 AIT117_50	GP PVALB GABA		AIT117_70	CN MGE GABA	Subclass																												
 AIT117_51	STR SST GABA		AIT117_70	CN MGE GABA	Subclass																												
 AIT117_52	BN MEIS2 GABA		AIT117_70	CN MGE GABA	Subclass																												
-AIT117_53	STR D2 MSN GABA		AIT117_75	CN LGE GABA	Subclass																												
-AIT117_54	STR D1 MSN GABA		AIT117_75	CN LGE GABA	Subclass																												
-AIT117_55	STR Hybrid MSN GABA		AIT117_75	CN LGE GABA	Subclass																												
-AIT117_56	STR Granular GABA		AIT117_75	CN LGE GABA	Subclass																												
-AIT117_57	Astrocyte		AIT117_76	Astro-Epen	Subclass																												
-AIT117_58	Oligodendrocyte		AIT117_77	OPC-Oligo	Subclass																												
-AIT117_59	COP		AIT117_77	OPC-Oligo	Subclass																												
-AIT117_60	OPC		AIT117_77	OPC-Oligo	Subclass																												
-AIT117_61	Microglia		AIT117_78	Immune	Subclass																												
-AIT117_62	Endo		AIT117_79	Vascular	Subclass																												
-AIT117_63	SMC		AIT117_79	Vascular	Subclass																												
-AIT117_64	Pericyte		AIT117_79	Vascular	Subclass																												
-AIT117_65	VLMC		AIT117_79	Vascular	Subclass																												
-AIT117_66	Lymphocyte		AIT117_78	Immune	Subclass																												
-AIT117_67	Macrophage		AIT117_78	Immune	Subclass																												
+AIT117_53	STR D2 MSN GABA		AIT117_75	CN LGE GABA	Subclass	CL:4023029	indirect pathway medium spiny neuron																										
+AIT117_54	STR D1 MSN GABA		AIT117_75	CN LGE GABA	Subclass	CL:4023026	direct pathway medium spiny neuron																										
+AIT117_55	STR Hybrid MSN GABA		AIT117_75	CN LGE GABA	Subclass	CL:4030050	D1/D2-hybrid medium spiny neuron																										
+AIT117_56	STR Granular GABA		AIT117_75	CN LGE GABA	Subclass	CL:4030053	Island of Calleja granule cell																										
+AIT117_57	Astrocyte		AIT117_76	Astro-Epen	Subclass	CL:0000127	astrocyte																										
+AIT117_58	Oligodendrocyte		AIT117_77	OPC-Oligo	Subclass	CL:0000128	oligodendrocyte																										
+AIT117_59	COP		AIT117_77	OPC-Oligo	Subclass	CL:4023059	differentiation-committed oligodendrocyte precursor																										
+AIT117_60	OPC		AIT117_77	OPC-Oligo	Subclass	CL:0002453	oligodendrocyte precursor cell																										
+AIT117_61	Microglia		AIT117_78	Immune	Subclass	CL:0000129	microglial cell																										
+AIT117_62	Endo		AIT117_79	Vascular	Subclass	CL:0000115	endothelial cell																										
+AIT117_63	SMC		AIT117_79	Vascular	Subclass	CL:0000192	smooth muscle cell																										
+AIT117_64	Pericyte		AIT117_79	Vascular	Subclass	CL:0000669	pericyte																										
+AIT117_65	VLMC		AIT117_79	Vascular	Subclass	CL:4023051	vascular leptomeningeal cell																										
+AIT117_66	Lymphocyte		AIT117_78	Immune	Subclass	CL:0000542	lymphocyte																										
+AIT117_67	Macrophage		AIT117_78	Immune	Subclass	CL:0000235	macrophage																										
 AIT117_68	ImOligo		AIT117_77	OPC-Oligo	Subclass																												
-AIT117_69	Ependymal		AIT117_76	Astro-Epen	Subclass																												
+AIT117_69	Ependymal		AIT117_76	Astro-Epen	Subclass	CL:0000065	ependymal cell																										
 AIT117_70	CN MGE GABA		AIT117_80	Subpallium GABA	Class																												
 AIT117_71	F M Glut		AIT117_81	Glut Sero Dopa	Class																												
-AIT117_72	MB Dopaminergic		AIT117_81	Glut Sero Dopa	Class																												
+AIT117_72	MB Dopaminergic		AIT117_81	Glut Sero Dopa	Class	CL:2000097	midbrain dopaminergic neuron																										
 AIT117_73	BG GABA Glut		AIT117_82	GABA Glut	Class																												
 AIT117_74	CN CGE GABA		AIT117_80	Subpallium GABA	Class																												
 AIT117_75	CN LGE GABA		AIT117_80	Subpallium GABA	Class																												
-AIT117_76	Astro-Epen		AIT117_83	Nonneuron	Class																												
-AIT117_77	OPC-Oligo		AIT117_83	Nonneuron	Class																												
-AIT117_78	Immune		AIT117_83	Nonneuron	Class																												
+AIT117_76	Astro-Epen		AIT117_83	Nonneuron	Class	CL:0000125	glial cell																										
+AIT117_77	OPC-Oligo		AIT117_83	Nonneuron	Class	CL:0000095	neuron associated cell																										
+AIT117_78	Immune		AIT117_83	Nonneuron	Class	CL:0000842	mononuclear cell																										
 AIT117_79	Vascular		AIT117_83	Nonneuron	Class																												
 AIT117_80	Subpallium GABA				Neighborhood																												
 AIT117_81	Glut Sero Dopa				Neighborhood																												
 AIT117_82	GABA Glut				Neighborhood																												
-AIT117_83	Nonneuron				Neighborhood																												
+AIT117_83	Nonneuron				Neighborhood	CL:0000000	cell																										
