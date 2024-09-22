@@ -7,7 +7,7 @@ author_name: Nelson Johansen
 title: NHP Basal Ganglia taxonomy
 
 fields:
-  - column_name: cluster
+  - column_name: cluster_id
     column_type: cluster_id
     rank: 0
 
