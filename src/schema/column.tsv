@@ -19,35 +19,34 @@ datatype	transform		empty	text		data type transformation
 datatype	structure		empty	text		data type structure
 datatype	SQL type		empty	sql_type		the SQLite type for representing this data
 datatype	HTML type		empty	html_type		the HTML type for viewing and editing this data
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	id	id		text	primary	
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	cluster_id	cluster id	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	cluster	cluster	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	Neighborhood	Neighborhood	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	Class	Class	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	Subclass	Subclass	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	Group	Group	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	cluster_size	cluster size	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	NSF_marker_count	NSF marker count	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	NSForest_markers	NSForest markers	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	binary_genes	binary genes	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	donor_composition	donor composition	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	donor_composition_alert_0.90	donor composition alert 0.90	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	library_composition_alert_0.95	library composition alert 0.95	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	library_composition_over0.01	library composition over0.01	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	dominant_library_percentage	dominant library percentage	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	dominant_library_info	dominant library info	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	roi_composition	roi composition	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	roi_composition_alert_0.95	roi composition alert 0.95	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	cluster_median_level1.class_scANVI_AIT11.6_round1_entropy	cluster median level1.class scANVI AIT11.6 round1 entropy	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	cluster_median_level2.neighborhood_scANVI_AIT11.6_round1_entropy	cluster median level2.neighborhood scANVI AIT11.6 round1 entropy	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	cluster_median_level1.class_scANVI_AIT11.6_round2_entropy	cluster median level1.class scANVI AIT11.6 round2 entropy	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	cluster_median_level2.neighborhood_scANVI_AIT11.6_round2_entropy	cluster median level2.neighborhood scANVI AIT11.6 round2 entropy	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	cluster_median_level3.subclass_scANVI_AIT11.6_round2_entropy	cluster median level3.subclass scANVI AIT11.6 round2 entropy	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	cluster_median_doublet_score	cluster median doublet score	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	cluster_median_pct_counts_mt	cluster median pct counts mt	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	gene_counts	gene counts	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	umi_counts	umi counts	empty	text		
-Annotations_AIT19_3_HumanBG_joint_annotation_sheet	umi_gene_ratio	umi gene ratio	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	cluster_id	cluster_id		text	primary	
+HMBA_Human_BG_annotation_joint_annotation_sheet	cluster	cluster	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	Neighborhood	Neighborhood	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	Class	Class	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	Subclass	Subclass	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	Group	Group	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	cluster_size	cluster size	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	NSF_marker_count	NSF marker count	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	NSForest_markers	NSForest markers	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	binary_genes	binary genes	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	donor_composition	donor composition	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	donor_composition_alert_0.90	donor composition alert 0.90	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	library_composition_alert_0.95	library composition alert 0.95	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	library_composition_over0.01	library composition over0.01	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	dominant_library_percentage	dominant library percentage	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	dominant_library_info	dominant library info	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	roi_composition	roi composition	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	roi_composition_alert_0.95	roi composition alert 0.95	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	cluster_median_level1.class_scANVI_AIT11.6_round1_entropy	cluster median level1.class scANVI AIT11.6 round1 entropy	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	cluster_median_level2.neighborhood_scANVI_AIT11.6_round1_entropy	cluster median level2.neighborhood scANVI AIT11.6 round1 entropy	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	cluster_median_level1.class_scANVI_AIT11.6_round2_entropy	cluster median level1.class scANVI AIT11.6 round2 entropy	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	cluster_median_level2.neighborhood_scANVI_AIT11.6_round2_entropy	cluster median level2.neighborhood scANVI AIT11.6 round2 entropy	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	cluster_median_level3.subclass_scANVI_AIT11.6_round2_entropy	cluster median level3.subclass scANVI AIT11.6 round2 entropy	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	cluster_median_doublet_score	cluster median doublet score	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	cluster_median_pct_counts_mt	cluster median pct counts mt	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	gene_counts	gene counts	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	umi_counts	umi counts	empty	text		
+HMBA_Human_BG_annotation_joint_annotation_sheet	umi_gene_ratio	umi gene ratio	empty	text		
 annotation	cell_set_accession	cell set accession		text	primary	An identifier that can be used to consistently refer to the set of cells being annotated, even if the cell_label changes.
 annotation	cell_label	cell label	empty	text		This denotes any free-text term which the author uses to annotate cells, i.e. the preferred cell label name used by the author. Abbreviations are exceptable in this field; refer to 'cell_fullname' for related details.  Certain key words have been reserved: - `'doublets'` is reserved for encoding cells defined as doublets based on some computational analysis - `'junk'` is reserved for encoding cells that failed sequencing for some reason, e.g. few genes detected, high fraction of mitochondrial reads - `'unknown'` is explicitly reserved for unknown or 'author does not know' - `'NA'` is incomplete, i.e. no cell annotation was provided
 annotation	cell_fullname	cell fullname	empty	text		This MUST be the full-length name for the biological entity listed in `cell_label` by the author. (If the value in `cell_label` is the full-length term, this field will contain the same value.)  NOTE: any reserved word used in the field 'cell_label' MUST match the value of this field.   EXAMPLE 1: Given the matching terms 'LC' and 'luminal cell' used to annotate the same cell(s), then users could use either terms as values in the field 'cell_label'. However, the abbreviation 'LC' CANNOT be provided in the field 'cell_fullname'.   EXAMPLE 2: Either the abbreviation 'AC' or the full-length term intended by the author 'GABAergic amacrine cell' MAY be placed in the field 'cell_label', but as full-length term naming this biological entity, 'GABAergic amacrine cell' MUST be placed in the field 'cell_fullname'.
@@ -60,7 +59,6 @@ annotation	rationale	rationale	empty	text		The free-text rationale which users p
 annotation	rationale_dois	rationale dois	empty	text		A list of valid publication DOIs cited by the author to support or provide justification/evidence/context for 'cell_label'. Multiple values can be concatenated by using the '|' character as a delimiter.
 annotation	marker_gene_evidence	marker gene evidence	empty	text		List of names of genes whose expression in the cells being annotated is explicitly used as evidence for this cell annotation. Each gene MUST be included in the matrix of the AnnData/Seurat file. Multiple values can be concatenated by using the '|' character as a delimiter.
 annotation	synonyms	synonyms	empty	text		This field denotes any free-text term of a biological entity which the author associates as synonymous with the biological entity listed in the field 'cell_label'. In the case whereby no synonyms exist, the authors MAY leave this as blank, which is encoded as 'NA'. However, this field is NOT OPTIONAL. Multiple values can be concatenated by using the '|' character as a delimiter.
-annotation	id	id	empty	text		
 annotation	cluster_size	cluster size	empty	text		
 annotation	NSF_marker_count	NSF marker count	empty	text		
 annotation	NSForest_markers	NSForest markers	empty	text		

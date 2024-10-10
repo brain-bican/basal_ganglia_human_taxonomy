@@ -1,7 +1,7 @@
 id: AIT117
-title: NHP Basal Ganglia taxonomy (Human)
+title: Human Basal Ganglia taxonomy
 description: Atlas of Human basal ganglia, developed in collaboration with the BRAIN Initiative Cell Census Network (BICCN).
-matrix_file_id: CellXGene_dataset:nhp50930-982a-11ee-b9d1-0242ac120002
+matrix_file_id: CellXGene_dataset:HMBA_Human_BG_082024_AIT_to_CAP
 github_org: Cellular-Semantics
 repo: nhp_basal_ganglia_human_taxonomy
 author: https://orcid.org/0000-0002-4436-969X

@@ -2,9 +2,9 @@ taxonomy_id: CCN20230601
 brain_region_names:
   - Basal Ganglia
 species_names:
-  - Macaca Mulatta
+  - Homo Sapiens
 author_name: Nelson Johansen
-title: NHP Basal Ganglia taxonomy
+title: Human Basal Ganglia taxonomy
 
 fields:
   - column_name: cluster_id
